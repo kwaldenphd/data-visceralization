@@ -2,6 +2,17 @@
 
 # Table of Contents
 
+-[Overview](#overview)
+-[Option #1](#option-1)
+-[Option #2](#option-2)
+-[Option #3](#option-3)
+  * [Facebook](#facebook)
+  * [Twitter](#twitter)
+  * [Instagram](#instagram)
+  * [Snapchat](#snapchat)
+  * [TikTok](#tiktok)
+-[Lab Notebook Components](#lab-notebook-components)
+
 # Overview
 
 Throughout the semester, we've looked at how surveillance technologies are constructed and deployed in ways that often work to reinforce and perpetuate racial hierarchies. Some of the authors we've read use the concepts of visibility and risk to frame how technologies that can seem invisible or harmless to dominant groups can have very different impacts on minoritized communities.
@@ -18,12 +29,14 @@ This could range from using apps that include location tracking, posting on soci
 
 [Link to sample log Google Form (ND users)](https://docs.google.com/forms/d/1aAm70RY5DxJicoFzcNKSwSCyuLvlKUGYgKIANmsoV70/edit?usp=sharing). You can make a copy and customize as needed.
 
+Explore the data in a spreadsheet program (Excel, Google Sheets), Python, or another exploratory data analysis tool like [Tableau Public](https://www.tableau.com/products/public) or [DataBasic](https://databasic.io/en/wtfcsv/).
+
 Discussion/reflection questions:
-Initial observations
-What stood out/surprised
-What concerned
-How you're thinking about race/surveillance differently
-Other comments/questions/etc
+- What are some of your initial observations from the experience of logging data?
+- What stood out in your exploration of the data?
+- Anything that surprised or concerned you?
+- How are you thinking about race and surveillance differently after this experience?
+- Other comments/questions/etc
 
 
 # Option #2
@@ -35,11 +48,12 @@ What kinds of tracking or surveillance technologies are you able to see when in 
 What background information are you able to gather about what technologies are being used?
 
 Discussion/reflection questions:
-Initial observations
-What stood out/surprised
-What concerned
-How you're thinking about race/surveillance differently
-Other comments/questions/etc
+- What are some of your initial observations from this experience?
+- What stood out in your exploration of the data?
+- Anything that surprised or concerned you?
+- How are you thinking about race and surveillance differently after this experience?
+- Other comments/questions/etc
+
 
 # Option #3
 
@@ -48,11 +62,12 @@ Download your data from a social media platform that you use frequently.
 Explore the data in a spreadsheet program (Excel, Google Sheets), Python, or another exploratory data analysis tool like [Tableau Public](https://www.tableau.com/products/public) or [DataBasic](https://databasic.io/en/wtfcsv/).
 
 Discussion/reflection questions:
-Initial observations
-What stood out/surprised
-What concerned
-How you're thinking about race/surveillance differently
-Other comments/questions/etc
+- What are some of your initial observations from this experience?
+- What stood out in your exploration of the data?
+- Anything that surprised or concerned you?
+- How are you thinking about race and surveillance differently after this experience?
+- Other comments/questions/etc
+
 
 ## Facebook
 
@@ -82,8 +97,8 @@ Other comments/questions/etc
 We're combining reflection and lab notebook this week.
 
 Questions to consider as a starting place:
-Initial observations
-What stood out/surprised
-What concerned
-How you're thinking about race/surveillance differently
-Other comments/questions/etc
+- What are some of your initial observations from this experience?
+- What stood out in your exploration of the data?
+- Anything that surprised or concerned you?
+- How are you thinking about race and surveillance differently after this experience?
+- Other comments/questions/etc
