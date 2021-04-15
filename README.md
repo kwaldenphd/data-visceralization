@@ -14,7 +14,7 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
   * [Instagram](#instagram)
   * [Snapchat](#snapchat)
   * [TikTok](#tiktok)
--[Lab Notebook Components](#lab-notebook-components)
+- [Lab Notebook Components](#lab-notebook-components)
 
 # Overview
 
