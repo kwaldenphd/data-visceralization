@@ -5,10 +5,10 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 
 # Table of Contents
 
--[Overview](#overview)
--[Option #1](#option-1)
--[Option #2](#option-2)
--[Option #3](#option-3)
+- [Overview](#overview)
+- [Option #1: Data Tracking Log](#option-1)
+- [Option #2: Environmental Scan](#option-2)
+- [Option #3# Social Media Data Download](#option-3)
   * [Facebook](#facebook)
   * [Twitter](#twitter)
   * [Instagram](#instagram)
