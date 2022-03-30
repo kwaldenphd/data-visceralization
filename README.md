@@ -29,14 +29,6 @@ The lab notebook consists of a narrative that documents and describes your exper
 
 If working collaboratively, the notebook should include comments from each member of the group. These can be combined in a single notebook or submitted individually along with work completed collaboratively.
 
-Questions to consider as a starting place:
-- What are some of your initial observations from this experience?
-- What stood out in your exploration of the data?
-- Anything that surprised or concerned you?
-- How are you thinking about race and surveillance differently after this experience?
-  * Connections with previous class content/discussion
-- Other comments/questions/etc
-
 # Option #1: Data Tracking Log
 
 Keep a log this week tracking how and where you appear in surveillance technology systems.
@@ -60,21 +52,20 @@ Discussion/reflection questions:
 - What stood out in your exploration of the data?
 - Anything that surprised or concerned you?
 - How are you thinking about race and surveillance differently after this experience?
+  * Connections with course content/discussions
 - Other comments/questions/etc
 
 # Option #2: Environmental Scan
 
-Identify a couple of commonly-used campus spaces or a community public space. Run your own version of EFF's "Spot the Surveillance."
-
-What kinds of tracking or surveillance technologies are you able to see when in the space?
-
-What background information are you able to gather about what technologies are being used?
+Identify a couple of commonly-used campus spaces or a community public space. Run your own version of EFF's "[Spot the Surveillance](https://www.eff.org/pages/spot-surveillance-vr-experience-keeping-eye-big-brother)."
 
 Discussion/reflection questions:
 - What are some of your initial observations from this experience?
-- What stood out in your exploration of the data?
+- What kinds of tracking or surveillance technologies are you able to see when in the space?
+- What background information are you able to gather about what technologies are being used?
 - Anything that surprised or concerned you?
 - How are you thinking about race and surveillance differently after this experience?
+  * Connections with course content/discussions
 - Other comments/questions/etc
 
 # Option #3: Social Media Data Download
@@ -94,6 +85,7 @@ Discussion/reflection questions:
 - What stood out in your exploration of the data?
 - Anything that surprised or concerned you?
 - How are you thinking about race and surveillance differently after this experience?
+  * Connections with course content/discussions
 - Other comments/questions/etc
 
 **Facebook**
@@ -140,11 +132,3 @@ There are multiple options for how you could approach or complete this lab.
 The lab notebook consists of a narrative that documents and describes your experience working through this lab. Each prompt has some reflection questions to consider as a starting place.
 
 If working collaboratively, the notebook should include comments from each member of the group. These can be combined in a single notebook or submitted individually along with work completed collaboratively.
-
-Questions to consider as a starting place:
-- What are some of your initial observations from this experience?
-- What stood out in your exploration of the data?
-- Anything that surprised or concerned you?
-- How are you thinking about race and surveillance differently after this experience?
-  * Connections with previous class content/discussion
-- Other comments/questions/etc
