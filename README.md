@@ -80,6 +80,9 @@ Some resources that might be helpful if looking at your own user data for one of
 - [Exploratory data analysis in WTFcsv](https://github.com/kwaldenphd/football-structured-data/blob/main/eda.md#databasic-wtfcsv)
 - Folks are also welcome to explore this data in Python, RStudio, etc.
 
+If folks want to explore the geospatial components of this data:
+- [Mapping tutorial that covers Google MyMaps, ArcGIS Online, Carto, Python, and RStudio](https://github.com/kwaldenphd/football-structured-data/blob/main/mapping.md)
+
 Discussion/reflection questions:
 - What are some of your initial observations from this experience?
 - What stood out in your exploration of the data?
